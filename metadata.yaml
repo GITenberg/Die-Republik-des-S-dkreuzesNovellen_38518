@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39511
     wikipedia: http://en.wikipedia.org/wiki/Valery_Bryusov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38518#Die-Republik-des-S-dkreuzesNovellen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
